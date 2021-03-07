@@ -1,3 +1,4 @@
 # ShoesApp-E-commerce
 
-![Shoe_Ecommerce](https://user-images.githubusercontent.com/34357613/110232155-023d1b80-7f81-11eb-9132-e48752f4a30d.png)
+
+<img width="1679" alt="Screen Shot 2021-03-07 at 8 09 01 PM" src="https://user-images.githubusercontent.com/34357613/110232173-14b75500-7f81-11eb-8061-06ea1cbed561.png">
